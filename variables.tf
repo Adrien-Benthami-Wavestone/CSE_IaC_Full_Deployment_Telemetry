@@ -10,7 +10,7 @@ variable "subscription_id" {
 
 variable "rg_name" {
   type    = string
-  default = "sandbox_prenom.nom"
+  default = "sandbox_prenom.nom" # modify accordingly
 }
 
 variable "location" {
